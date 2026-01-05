@@ -1,0 +1,11 @@
+{
+  "device": "iosxr-sandbox",
+  "timestamp": "2026-01-05T18:06:23.209695",
+  "issues_found": 1,
+  "issues": [
+    {
+      "interface": "Gi0/0/0/0",
+      "issue": "Interface missing"
+    }
+  ]
+}
